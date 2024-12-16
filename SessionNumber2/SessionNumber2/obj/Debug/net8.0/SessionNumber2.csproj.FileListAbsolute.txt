@@ -1,0 +1,14 @@
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\SessionNumber2\SessionNumber2\bin\Debug\net8.0\SessionNumber2.exe
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\SessionNumber2\SessionNumber2\bin\Debug\net8.0\SessionNumber2.deps.json
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\SessionNumber2\SessionNumber2\bin\Debug\net8.0\SessionNumber2.runtimeconfig.json
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\SessionNumber2\SessionNumber2\bin\Debug\net8.0\SessionNumber2.dll
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\SessionNumber2\SessionNumber2\bin\Debug\net8.0\SessionNumber2.pdb
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\SessionNumber2\SessionNumber2\obj\Debug\net8.0\SessionNumber2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\SessionNumber2\SessionNumber2\obj\Debug\net8.0\SessionNumber2.AssemblyInfoInputs.cache
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\SessionNumber2\SessionNumber2\obj\Debug\net8.0\SessionNumber2.AssemblyInfo.cs
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\SessionNumber2\SessionNumber2\obj\Debug\net8.0\SessionNumber2.csproj.CoreCompileInputs.cache
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\SessionNumber2\SessionNumber2\obj\Debug\net8.0\SessionNumber2.dll
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\SessionNumber2\SessionNumber2\obj\Debug\net8.0\refint\SessionNumber2.dll
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\SessionNumber2\SessionNumber2\obj\Debug\net8.0\SessionNumber2.pdb
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\SessionNumber2\SessionNumber2\obj\Debug\net8.0\SessionNumber2.genruntimeconfig.cache
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\SessionNumber2\SessionNumber2\obj\Debug\net8.0\ref\SessionNumber2.dll

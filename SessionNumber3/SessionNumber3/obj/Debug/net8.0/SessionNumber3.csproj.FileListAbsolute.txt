@@ -1,0 +1,14 @@
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber3\SessionNumber3\bin\Debug\net8.0\SessionNumber3.exe
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber3\SessionNumber3\bin\Debug\net8.0\SessionNumber3.deps.json
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber3\SessionNumber3\bin\Debug\net8.0\SessionNumber3.runtimeconfig.json
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber3\SessionNumber3\bin\Debug\net8.0\SessionNumber3.dll
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber3\SessionNumber3\bin\Debug\net8.0\SessionNumber3.pdb
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber3\SessionNumber3\obj\Debug\net8.0\SessionNumber3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber3\SessionNumber3\obj\Debug\net8.0\SessionNumber3.AssemblyInfoInputs.cache
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber3\SessionNumber3\obj\Debug\net8.0\SessionNumber3.AssemblyInfo.cs
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber3\SessionNumber3\obj\Debug\net8.0\SessionNumber3.csproj.CoreCompileInputs.cache
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber3\SessionNumber3\obj\Debug\net8.0\SessionNumber3.dll
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber3\SessionNumber3\obj\Debug\net8.0\refint\SessionNumber3.dll
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber3\SessionNumber3\obj\Debug\net8.0\SessionNumber3.pdb
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber3\SessionNumber3\obj\Debug\net8.0\SessionNumber3.genruntimeconfig.cache
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber3\SessionNumber3\obj\Debug\net8.0\ref\SessionNumber3.dll

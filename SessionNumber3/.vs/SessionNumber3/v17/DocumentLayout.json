@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B67E1218-59E3-4A95-96D2-1A52ED4F0946}|SessionNumber3\\SessionNumber3.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\g1\\sessionnumber3\\sessionnumber3\\interface\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67E1218-59E3-4A95-96D2-1A52ED4F0946}|SessionNumber3\\SessionNumber3.csproj|solutionrelative:sessionnumber3\\interface\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67E1218-59E3-4A95-96D2-1A52ED4F0946}|SessionNumber3\\SessionNumber3.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\g1\\sessionnumber3\\sessionnumber3\\animals\\horse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67E1218-59E3-4A95-96D2-1A52ED4F0946}|SessionNumber3\\SessionNumber3.csproj|solutionrelative:sessionnumber3\\animals\\horse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67E1218-59E3-4A95-96D2-1A52ED4F0946}|SessionNumber3\\SessionNumber3.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\g1\\sessionnumber3\\sessionnumber3\\animals\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67E1218-59E3-4A95-96D2-1A52ED4F0946}|SessionNumber3\\SessionNumber3.csproj|solutionrelative:sessionnumber3\\animals\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67E1218-59E3-4A95-96D2-1A52ED4F0946}|SessionNumber3\\SessionNumber3.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\g1\\sessionnumber3\\sessionnumber3\\animals\\baranimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67E1218-59E3-4A95-96D2-1A52ED4F0946}|SessionNumber3\\SessionNumber3.csproj|solutionrelative:sessionnumber3\\animals\\baranimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67E1218-59E3-4A95-96D2-1A52ED4F0946}|SessionNumber3\\SessionNumber3.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\g1\\sessionnumber3\\sessionnumber3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67E1218-59E3-4A95-96D2-1A52ED4F0946}|SessionNumber3\\SessionNumber3.csproj|solutionrelative:sessionnumber3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67E1218-59E3-4A95-96D2-1A52ED4F0946}|SessionNumber3\\SessionNumber3.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\g1\\sessionnumber3\\sessionnumber3\\animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67E1218-59E3-4A95-96D2-1A52ED4F0946}|SessionNumber3\\SessionNumber3.csproj|solutionrelative:sessionnumber3\\animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67E1218-59E3-4A95-96D2-1A52ED4F0946}|SessionNumber3\\SessionNumber3.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\g1\\sessionnumber3\\sessionnumber3\\interface\\icreature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67E1218-59E3-4A95-96D2-1A52ED4F0946}|SessionNumber3\\SessionNumber3.csproj|solutionrelative:sessionnumber3\\interface\\icreature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67E1218-59E3-4A95-96D2-1A52ED4F0946}|SessionNumber3\\SessionNumber3.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\g1\\sessionnumber3\\sessionnumber3\\animals\\aligator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67E1218-59E3-4A95-96D2-1A52ED4F0946}|SessionNumber3\\SessionNumber3.csproj|solutionrelative:sessionnumber3\\animals\\aligator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67E1218-59E3-4A95-96D2-1A52ED4F0946}|SessionNumber3\\SessionNumber3.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\g1\\sessionnumber3\\sessionnumber3\\animals\\pets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67E1218-59E3-4A95-96D2-1A52ED4F0946}|SessionNumber3\\SessionNumber3.csproj|solutionrelative:sessionnumber3\\animals\\pets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67E1218-59E3-4A95-96D2-1A52ED4F0946}|SessionNumber3\\SessionNumber3.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\g1\\sessionnumber3\\sessionnumber3\\animals\\wildanimals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67E1218-59E3-4A95-96D2-1A52ED4F0946}|SessionNumber3\\SessionNumber3.csproj|solutionrelative:sessionnumber3\\animals\\wildanimals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67E1218-59E3-4A95-96D2-1A52ED4F0946}|SessionNumber3\\SessionNumber3.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\g1\\sessionnumber3\\sessionnumber3\\production\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67E1218-59E3-4A95-96D2-1A52ED4F0946}|SessionNumber3\\SessionNumber3.csproj|solutionrelative:sessionnumber3\\production\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{312E9629-2188-4D9E-B743-20A2E05E44AE}|ConsoleApp1\\ConsoleApp1.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\g1\\sessionnumber3\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{312E9629-2188-4D9E-B743-20A2E05E44AE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67E1218-59E3-4A95-96D2-1A52ED4F0946}|SessionNumber3\\SessionNumber3.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\g1\\sessionnumber3\\sessionnumber3\\production\\subproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67E1218-59E3-4A95-96D2-1A52ED4F0946}|SessionNumber3\\SessionNumber3.csproj|solutionrelative:sessionnumber3\\production\\subproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67E1218-59E3-4A95-96D2-1A52ED4F0946}|SessionNumber3\\SessionNumber3.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\g1\\sessionnumber3\\sessionnumber3\\sessionnumber3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B67E1218-59E3-4A95-96D2-1A52ED4F0946}|SessionNumber3\\SessionNumber3.csproj|solutionrelative:sessionnumber3\\sessionnumber3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67E1218-59E3-4A95-96D2-1A52ED4F0946}|SessionNumber3\\SessionNumber3.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\g1\\sessionnumber3\\sessionnumber3\\production\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67E1218-59E3-4A95-96D2-1A52ED4F0946}|SessionNumber3\\SessionNumber3.csproj|solutionrelative:sessionnumber3\\production\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 206,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICreature.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber3\\SessionNumber3\\Interface\\ICreature.cs",
+              "RelativeDocumentMoniker": "SessionNumber3\\Interface\\ICreature.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber3\\SessionNumber3\\Interface\\ICreature.cs",
+              "RelativeToolTip": "SessionNumber3\\Interface\\ICreature.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:02:40.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber3\\SessionNumber3\\Animals\\Bird.cs",
+              "RelativeDocumentMoniker": "SessionNumber3\\Animals\\Bird.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber3\\SessionNumber3\\Animals\\Bird.cs",
+              "RelativeToolTip": "SessionNumber3\\Animals\\Bird.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T18:59:35.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAnimal.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber3\\SessionNumber3\\Interface\\IAnimal.cs",
+              "RelativeDocumentMoniker": "SessionNumber3\\Interface\\IAnimal.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber3\\SessionNumber3\\Interface\\IAnimal.cs",
+              "RelativeToolTip": "SessionNumber3\\Interface\\IAnimal.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T18:56:40.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Aligator.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber3\\SessionNumber3\\Animals\\Aligator.cs",
+              "RelativeDocumentMoniker": "SessionNumber3\\Animals\\Aligator.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber3\\SessionNumber3\\Animals\\Aligator.cs",
+              "RelativeToolTip": "SessionNumber3\\Animals\\Aligator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T18:47:30.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Horse.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber3\\SessionNumber3\\Animals\\Horse.cs",
+              "RelativeDocumentMoniker": "SessionNumber3\\Animals\\Horse.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber3\\SessionNumber3\\Animals\\Horse.cs",
+              "RelativeToolTip": "SessionNumber3\\Animals\\Horse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T18:45:31.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BarAnimal.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber3\\SessionNumber3\\Animals\\BarAnimal.cs",
+              "RelativeDocumentMoniker": "SessionNumber3\\Animals\\BarAnimal.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber3\\SessionNumber3\\Animals\\BarAnimal.cs",
+              "RelativeToolTip": "SessionNumber3\\Animals\\BarAnimal.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T18:40:27.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WildAnimals.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber3\\SessionNumber3\\Animals\\WildAnimals.cs",
+              "RelativeDocumentMoniker": "SessionNumber3\\Animals\\WildAnimals.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber3\\SessionNumber3\\Animals\\WildAnimals.cs",
+              "RelativeToolTip": "SessionNumber3\\Animals\\WildAnimals.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:34:48.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pets.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber3\\SessionNumber3\\Animals\\Pets.cs",
+              "RelativeDocumentMoniker": "SessionNumber3\\Animals\\Pets.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber3\\SessionNumber3\\Animals\\Pets.cs",
+              "RelativeToolTip": "SessionNumber3\\Animals\\Pets.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:30:15.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber3\\SessionNumber3\\Animals\\Animal.cs",
+              "RelativeDocumentMoniker": "SessionNumber3\\Animals\\Animal.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber3\\SessionNumber3\\Animals\\Animal.cs",
+              "RelativeToolTip": "SessionNumber3\\Animals\\Animal.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:26:20.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SubProduct.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber3\\SessionNumber3\\Production\\SubProduct.cs",
+              "RelativeDocumentMoniker": "SessionNumber3\\Production\\SubProduct.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber3\\SessionNumber3\\Production\\SubProduct.cs",
+              "RelativeToolTip": "SessionNumber3\\Production\\SubProduct.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:57:24.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SessionNumber3",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber3\\SessionNumber3\\SessionNumber3.csproj",
+              "RelativeDocumentMoniker": "SessionNumber3\\SessionNumber3.csproj",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber3\\SessionNumber3\\SessionNumber3.csproj*",
+              "RelativeToolTip": "SessionNumber3\\SessionNumber3.csproj*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-09T16:55:26.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber3\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber3\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:55:10.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber3\\SessionNumber3\\Production\\Class1.cs",
+              "RelativeDocumentMoniker": "SessionNumber3\\Production\\Class1.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber3\\SessionNumber3\\Production\\Class1.cs",
+              "RelativeToolTip": "SessionNumber3\\Production\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:50:54.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber3\\SessionNumber3\\Production\\Product.cs",
+              "RelativeDocumentMoniker": "SessionNumber3\\Production\\Product.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber3\\SessionNumber3\\Production\\Product.cs",
+              "RelativeToolTip": "SessionNumber3\\Production\\Product.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAEAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:25:50.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber3\\SessionNumber3\\Program.cs",
+              "RelativeDocumentMoniker": "SessionNumber3\\Program.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber3\\SessionNumber3\\Program.cs",
+              "RelativeToolTip": "SessionNumber3\\Program.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAAAGgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:20:20.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
