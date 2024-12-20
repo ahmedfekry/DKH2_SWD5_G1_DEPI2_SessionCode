@@ -1,0 +1,15 @@
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber6\AnonymousFunction\bin\Debug\net8.0\AnonymousFunction.exe
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber6\AnonymousFunction\bin\Debug\net8.0\AnonymousFunction.deps.json
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber6\AnonymousFunction\bin\Debug\net8.0\AnonymousFunction.runtimeconfig.json
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber6\AnonymousFunction\bin\Debug\net8.0\AnonymousFunction.dll
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber6\AnonymousFunction\bin\Debug\net8.0\AnonymousFunction.pdb
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber6\AnonymousFunction\obj\Debug\net8.0\AnonymousFunction.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber6\AnonymousFunction\obj\Debug\net8.0\AnonymousFunction.AssemblyInfoInputs.cache
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber6\AnonymousFunction\obj\Debug\net8.0\AnonymousFunction.AssemblyInfo.cs
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber6\AnonymousFunction\obj\Debug\net8.0\AnonymousFunction.csproj.CoreCompileInputs.cache
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber6\AnonymousFunction\obj\Debug\net8.0\AnonymousFunction.sourcelink.json
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber6\AnonymousFunction\obj\Debug\net8.0\AnonymousFunction.dll
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber6\AnonymousFunction\obj\Debug\net8.0\refint\AnonymousFunction.dll
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber6\AnonymousFunction\obj\Debug\net8.0\AnonymousFunction.pdb
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber6\AnonymousFunction\obj\Debug\net8.0\AnonymousFunction.genruntimeconfig.cache
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber6\AnonymousFunction\obj\Debug\net8.0\ref\AnonymousFunction.dll

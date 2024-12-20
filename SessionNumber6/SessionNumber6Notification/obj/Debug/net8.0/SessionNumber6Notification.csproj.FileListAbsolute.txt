@@ -1,0 +1,15 @@
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber6\SessionNumber6Notification\bin\Debug\net8.0\SessionNumber6Notification.exe
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber6\SessionNumber6Notification\bin\Debug\net8.0\SessionNumber6Notification.deps.json
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber6\SessionNumber6Notification\bin\Debug\net8.0\SessionNumber6Notification.runtimeconfig.json
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber6\SessionNumber6Notification\bin\Debug\net8.0\SessionNumber6Notification.dll
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber6\SessionNumber6Notification\bin\Debug\net8.0\SessionNumber6Notification.pdb
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber6\SessionNumber6Notification\obj\Debug\net8.0\SessionNumber6Notification.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber6\SessionNumber6Notification\obj\Debug\net8.0\SessionNumber6Notification.AssemblyInfoInputs.cache
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber6\SessionNumber6Notification\obj\Debug\net8.0\SessionNumber6Notification.AssemblyInfo.cs
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber6\SessionNumber6Notification\obj\Debug\net8.0\SessionNumber6Notification.csproj.CoreCompileInputs.cache
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber6\SessionNumber6Notification\obj\Debug\net8.0\SessionNumber6Notification.sourcelink.json
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber6\SessionNumber6Notification\obj\Debug\net8.0\SessionNumber6Notification.dll
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber6\SessionNumber6Notification\obj\Debug\net8.0\refint\SessionNumber6Notification.dll
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber6\SessionNumber6Notification\obj\Debug\net8.0\SessionNumber6Notification.pdb
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber6\SessionNumber6Notification\obj\Debug\net8.0\SessionNumber6Notification.genruntimeconfig.cache
+E:\Courses\MyCoursesMaterials\DigitalEgypt\Round 2\SessionsCode\C#\G1\SessionNumber6\SessionNumber6Notification\obj\Debug\net8.0\ref\SessionNumber6Notification.dll

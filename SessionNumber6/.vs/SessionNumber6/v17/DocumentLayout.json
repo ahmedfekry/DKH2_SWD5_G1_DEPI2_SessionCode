@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9F9045-A9E5-44D8-9437-5CE9B835C2EC}|AnonymousFunction\\AnonymousFunction.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\g1\\sessionnumber6\\anonymousfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE9F9045-A9E5-44D8-9437-5CE9B835C2EC}|AnonymousFunction\\AnonymousFunction.csproj|solutionrelative:anonymousfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63406817-4AA7-4E79-837F-4D45D116E39A}|SessionNumber6Notification\\SessionNumber6Notification.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\g1\\sessionnumber6\\sessionnumber6notification\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63406817-4AA7-4E79-837F-4D45D116E39A}|SessionNumber6Notification\\SessionNumber6Notification.csproj|solutionrelative:sessionnumber6notification\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C2A566-50B4-4D72-9A72-49B919DEB307}|SessionNumber6\\SessionNumber6.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\g1\\sessionnumber6\\sessionnumber6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C2A566-50B4-4D72-9A72-49B919DEB307}|SessionNumber6\\SessionNumber6.csproj|solutionrelative:sessionnumber6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C2A566-50B4-4D72-9A72-49B919DEB307}|SessionNumber6\\SessionNumber6.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\g1\\sessionnumber6\\sessionnumber6\\simplemath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C2A566-50B4-4D72-9A72-49B919DEB307}|SessionNumber6\\SessionNumber6.csproj|solutionrelative:sessionnumber6\\simplemath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63406817-4AA7-4E79-837F-4D45D116E39A}|SessionNumber6Notification\\SessionNumber6Notification.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\g1\\sessionnumber6\\sessionnumber6notification\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63406817-4AA7-4E79-837F-4D45D116E39A}|SessionNumber6Notification\\SessionNumber6Notification.csproj|solutionrelative:sessionnumber6notification\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63406817-4AA7-4E79-837F-4D45D116E39A}|SessionNumber6Notification\\SessionNumber6Notification.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\g1\\sessionnumber6\\sessionnumber6notification\\sessionnumber6notification.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{63406817-4AA7-4E79-837F-4D45D116E39A}|SessionNumber6Notification\\SessionNumber6Notification.csproj|solutionrelative:sessionnumber6notification\\sessionnumber6notification.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63406817-4AA7-4E79-837F-4D45D116E39A}|SessionNumber6Notification\\SessionNumber6Notification.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\g1\\sessionnumber6\\sessionnumber6notification\\careventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63406817-4AA7-4E79-837F-4D45D116E39A}|SessionNumber6Notification\\SessionNumber6Notification.csproj|solutionrelative:sessionnumber6notification\\careventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 206,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SessionNumber6Notification.csproj",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber6\\SessionNumber6Notification\\SessionNumber6Notification.csproj",
+              "RelativeDocumentMoniker": "SessionNumber6Notification\\SessionNumber6Notification.csproj",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber6\\SessionNumber6Notification\\SessionNumber6Notification.csproj",
+              "RelativeToolTip": "SessionNumber6Notification\\SessionNumber6Notification.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-20T09:10:43.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber6\\AnonymousFunction\\Program.cs",
+              "RelativeDocumentMoniker": "AnonymousFunction\\Program.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber6\\AnonymousFunction\\Program.cs",
+              "RelativeToolTip": "AnonymousFunction\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T09:03:35.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarEventArgs.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber6\\SessionNumber6Notification\\CarEventArgs.cs",
+              "RelativeDocumentMoniker": "SessionNumber6Notification\\CarEventArgs.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber6\\SessionNumber6Notification\\CarEventArgs.cs",
+              "RelativeToolTip": "SessionNumber6Notification\\CarEventArgs.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwBAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T08:11:56.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber6\\SessionNumber6Notification\\Car.cs",
+              "RelativeDocumentMoniker": "SessionNumber6Notification\\Car.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber6\\SessionNumber6Notification\\Car.cs",
+              "RelativeToolTip": "SessionNumber6Notification\\Car.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAACsAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:59:13.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber6\\SessionNumber6Notification\\Program.cs",
+              "RelativeDocumentMoniker": "SessionNumber6Notification\\Program.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber6\\SessionNumber6Notification\\Program.cs",
+              "RelativeToolTip": "SessionNumber6Notification\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAcwDEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:58:51.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SimpleMath.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber6\\SessionNumber6\\SimpleMath.cs",
+              "RelativeDocumentMoniker": "SessionNumber6\\SimpleMath.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber6\\SessionNumber6\\SimpleMath.cs",
+              "RelativeToolTip": "SessionNumber6\\SimpleMath.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:41:54.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber6\\SessionNumber6\\Program.cs",
+              "RelativeDocumentMoniker": "SessionNumber6\\Program.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber6\\SessionNumber6\\Program.cs",
+              "RelativeToolTip": "SessionNumber6\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:39:59.974Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
