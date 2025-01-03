@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EAB9F8B-F962-4BEF-B529-6C48DD36AE63}|SessionNumber8\\SessionNumber8.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\g1\\sessionnumber8\\sessionnumber8\\seniormanagersalarycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EAB9F8B-F962-4BEF-B529-6C48DD36AE63}|SessionNumber8\\SessionNumber8.csproj|solutionrelative:sessionnumber8\\seniormanagersalarycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EAB9F8B-F962-4BEF-B529-6C48DD36AE63}|SessionNumber8\\SessionNumber8.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\g1\\sessionnumber8\\sessionnumber8\\managersalarycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EAB9F8B-F962-4BEF-B529-6C48DD36AE63}|SessionNumber8\\SessionNumber8.csproj|solutionrelative:sessionnumber8\\managersalarycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EAB9F8B-F962-4BEF-B529-6C48DD36AE63}|SessionNumber8\\SessionNumber8.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\g1\\sessionnumber8\\sessionnumber8\\employeesalarycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EAB9F8B-F962-4BEF-B529-6C48DD36AE63}|SessionNumber8\\SessionNumber8.csproj|solutionrelative:sessionnumber8\\employeesalarycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EAB9F8B-F962-4BEF-B529-6C48DD36AE63}|SessionNumber8\\SessionNumber8.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\g1\\sessionnumber8\\sessionnumber8\\isalarycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EAB9F8B-F962-4BEF-B529-6C48DD36AE63}|SessionNumber8\\SessionNumber8.csproj|solutionrelative:sessionnumber8\\isalarycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EAB9F8B-F962-4BEF-B529-6C48DD36AE63}|SessionNumber8\\SessionNumber8.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\g1\\sessionnumber8\\sessionnumber8\\salarycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EAB9F8B-F962-4BEF-B529-6C48DD36AE63}|SessionNumber8\\SessionNumber8.csproj|solutionrelative:sessionnumber8\\salarycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EAB9F8B-F962-4BEF-B529-6C48DD36AE63}|SessionNumber8\\SessionNumber8.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\g1\\sessionnumber8\\sessionnumber8\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EAB9F8B-F962-4BEF-B529-6C48DD36AE63}|SessionNumber8\\SessionNumber8.csproj|solutionrelative:sessionnumber8\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EAB9F8B-F962-4BEF-B529-6C48DD36AE63}|SessionNumber8\\SessionNumber8.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\g1\\sessionnumber8\\sessionnumber8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EAB9F8B-F962-4BEF-B529-6C48DD36AE63}|SessionNumber8\\SessionNumber8.csproj|solutionrelative:sessionnumber8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EAB9F8B-F962-4BEF-B529-6C48DD36AE63}|SessionNumber8\\SessionNumber8.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\g1\\sessionnumber8\\sessionnumber8\\attendancegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EAB9F8B-F962-4BEF-B529-6C48DD36AE63}|SessionNumber8\\SessionNumber8.csproj|solutionrelative:sessionnumber8\\attendancegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EAB9F8B-F962-4BEF-B529-6C48DD36AE63}|SessionNumber8\\SessionNumber8.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\g1\\sessionnumber8\\sessionnumber8\\postmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EAB9F8B-F962-4BEF-B529-6C48DD36AE63}|SessionNumber8\\SessionNumber8.csproj|solutionrelative:sessionnumber8\\postmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EAB9F8B-F962-4BEF-B529-6C48DD36AE63}|SessionNumber8\\SessionNumber8.csproj|e:\\courses\\mycoursesmaterials\\digitalegypt\\round 2\\sessionscode\\c#\\g1\\sessionnumber8\\sessionnumber8\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EAB9F8B-F962-4BEF-B529-6C48DD36AE63}|SessionNumber8\\SessionNumber8.csproj|solutionrelative:sessionnumber8\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 206,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeniorManagerSalaryCalculator.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber8\\SessionNumber8\\SeniorManagerSalaryCalculator.cs",
+              "RelativeDocumentMoniker": "SessionNumber8\\SeniorManagerSalaryCalculator.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber8\\SessionNumber8\\SeniorManagerSalaryCalculator.cs",
+              "RelativeToolTip": "SessionNumber8\\SeniorManagerSalaryCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T19:33:49.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManagerSalaryCalculator.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber8\\SessionNumber8\\ManagerSalaryCalculator.cs",
+              "RelativeDocumentMoniker": "SessionNumber8\\ManagerSalaryCalculator.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber8\\SessionNumber8\\ManagerSalaryCalculator.cs",
+              "RelativeToolTip": "SessionNumber8\\ManagerSalaryCalculator.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T19:32:20.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeSalaryCalculator.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber8\\SessionNumber8\\EmployeeSalaryCalculator.cs",
+              "RelativeDocumentMoniker": "SessionNumber8\\EmployeeSalaryCalculator.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber8\\SessionNumber8\\EmployeeSalaryCalculator.cs",
+              "RelativeToolTip": "SessionNumber8\\EmployeeSalaryCalculator.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T19:30:54.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISalaryCalculator.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber8\\SessionNumber8\\ISalaryCalculator.cs",
+              "RelativeDocumentMoniker": "SessionNumber8\\ISalaryCalculator.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber8\\SessionNumber8\\ISalaryCalculator.cs",
+              "RelativeToolTip": "SessionNumber8\\ISalaryCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T19:29:23.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AttendanceGenerator.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber8\\SessionNumber8\\AttendanceGenerator.cs",
+              "RelativeDocumentMoniker": "SessionNumber8\\AttendanceGenerator.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber8\\SessionNumber8\\AttendanceGenerator.cs",
+              "RelativeToolTip": "SessionNumber8\\AttendanceGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T19:22:50.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SalaryCalculator.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber8\\SessionNumber8\\SalaryCalculator.cs",
+              "RelativeDocumentMoniker": "SessionNumber8\\SalaryCalculator.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber8\\SessionNumber8\\SalaryCalculator.cs",
+              "RelativeToolTip": "SessionNumber8\\SalaryCalculator.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T19:21:54.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber8\\SessionNumber8\\Employee.cs",
+              "RelativeDocumentMoniker": "SessionNumber8\\Employee.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber8\\SessionNumber8\\Employee.cs",
+              "RelativeToolTip": "SessionNumber8\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T19:19:10.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PostManagement.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber8\\SessionNumber8\\PostManagement.cs",
+              "RelativeDocumentMoniker": "SessionNumber8\\PostManagement.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber8\\SessionNumber8\\PostManagement.cs",
+              "RelativeToolTip": "SessionNumber8\\PostManagement.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAAGMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T17:51:14.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Post.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber8\\SessionNumber8\\Post.cs",
+              "RelativeDocumentMoniker": "SessionNumber8\\Post.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber8\\SessionNumber8\\Post.cs",
+              "RelativeToolTip": "SessionNumber8\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T17:50:35.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber8\\SessionNumber8\\Program.cs",
+              "RelativeDocumentMoniker": "SessionNumber8\\Program.cs",
+              "ToolTip": "E:\\Courses\\MyCoursesMaterials\\DigitalEgypt\\Round 2\\SessionsCode\\C#\\G1\\SessionNumber8\\SessionNumber8\\Program.cs",
+              "RelativeToolTip": "SessionNumber8\\Program.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAAEsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T16:38:22.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
